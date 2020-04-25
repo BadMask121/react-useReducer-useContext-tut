@@ -1,3 +1,5 @@
+#Created for teaching how useReducer and useContext can be scaled on production
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
